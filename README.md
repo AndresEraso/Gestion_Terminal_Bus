@@ -1,2 +1,2 @@
 # Gestion_Terminal_Bus
-Proyecto de Ingenieria de Software qeu gestiona la venta de tiquetes de bus
+Proyecto de Ingenieria de Software que gestiona la venta de tiquetes de bus
